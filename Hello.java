@@ -1,5 +1,5 @@
 public class Hello {
     public static void main(String[] args) {
-        System.out.println("Hello DevOps. I am Bekarys");
+        System.out.println("Hello DevOps. I am Task 2");
     }
 }
